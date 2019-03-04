@@ -1,3 +1,3 @@
-# enery-shiny-app
+# energy-shiny-app
 Energy is the entity of nature that is transformed from one form to another between parts of a system in the production of physical change within the system. The first and still major source of energy is the sun. 
 Over the years, different sources of energy have emerged; Fossil fuels is a huge source of coal, oil and natural gas. Other sources of energy are Nuclear plant, Hydro-electric, Wind and Geothermal. Energy consumption has evolved as new sources are discovered, wood and hydroelectric were in high use up until last century, this changed drastically in mid 20th century when nuclear, coal, natural gas and petroleum became the most consumed energy sources. This project takes a closer look into energy consumption around the world.
